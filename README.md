@@ -5,8 +5,15 @@
 
  ## 🔨Começando o desafio🔨 ##
 
- O site escolhido para realizar o desafio é: https://www.udemy.com/ e a funcionalidade escolhida, foi: " **O** **fluxo** **de** **compras** **dos** **cursos**"
+ O site escolhido para realizar o desafio foi a Udemy que é uma plataforma de aprendizado online que oferece uma ampla variedade de cursos em vídeo sob demanda. O site : https://www.udemy.com/ e a funcionalidade escolhida, foi: " **O** **fluxo** **de** **compras** **dos** **cursos**"
 
-### 📋Regras de Negócios📋 (RN) ### 
+### 📋Regras de Negócios (RN)📋 ### 
+
+- Funcionalidade: selecionar o curso e adicionar ao carinho de compras  
+
+| ID | Regras |
+| :-------------: | :-------------: |
+| [RN-01] |   |
+| [RN-02] |   |
  
 
