@@ -1,1 +1,2 @@
-# Estratégia de teste de software #
+ Estratégia de teste de software
+======================================
