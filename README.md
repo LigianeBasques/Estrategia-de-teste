@@ -5,3 +5,5 @@
 
  ### 🔨Começando o desafio🔨 ###
 
+ O site escolhido para realizar o desafio é: https://www.udemy.com/ e a funcionalidade escolhida, foi: " **O** **fluxo** **de** **compras** **dos** **cursos**"
+
