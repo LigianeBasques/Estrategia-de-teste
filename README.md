@@ -1,1 +1,1 @@
-# Estrategia-de-teste
+# Estratégia de teste de software #
