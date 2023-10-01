@@ -18,5 +18,6 @@
 | [RN-03] |  Deverá conter um botão para adicionar curso no carrinho de compras |
 | [RN-04] |  Deverá conter um botão para ir para o carrinho de compras |
 | [RN-05] |  Deverá conter um botão para finalizar compras |
+| [RN-06] |  Deverá conter um botão seletor de país |
  
 
