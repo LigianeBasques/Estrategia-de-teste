@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://logowik.com/content/uploads/images/udemy-new-20212512.jpg">
   <source media="(prefers-color-scheme: light)" srcset="https://logowik.com/content/uploads/images/udemy-new-20212512.jpg">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://logowik.com/content/uploads/images/udemy-new-20212512.jpg">
+  <img alt="#DescriçãodaImagem:arte gráfica no formato jpg, da logotipo da plataforma de curso Udemy, a cor da letra e preta com acento circunflexo de cor rosa na letra U  ." src="https://logowik.com/content/uploads/images/udemy-new-20212512.jpg">
 </picture>
  
  # 💡Estratégia de teste de software💡 #
