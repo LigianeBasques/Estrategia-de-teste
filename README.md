@@ -1,11 +1,11 @@
- ## Estratégia de teste de software
+ # 💡Estratégia de teste de software💡 #
 
  Esse desafio foi proposto em uma live com o seguinte tema : **Pirâmide,** **sorvete** **e** **diamante**: **Como** **e** **onde** **usar?** Do esquenta TDC com cantinho das Qas, ministrado pela mentora **Priscila** **Caimi**. O objetivo é escolher uma funcionaliodade de um site, que utilizamos e aplicar as melhores estratégias de testes no contexto de **Pirâmide** **de** **testes.** 
 
 
  ## 🔨Começando o desafio🔨 ##
 
- O site escolhido para realizar o desafio foi a Udemy que é uma plataforma de aprendizado online que oferece uma ampla variedade de cursos em vídeo sob demanda. O site : https://www.udemy.com/ e a funcionalidade escolhida, foi: "***selecionar*** ***o*** ***curso*** ***e*** ***adicionar*** ***ao*** ***carrinho*** ***de*** ***compras***"
+ O site escolhido para realizar o desafio foi a Udemy que é uma plataforma de aprendizado online que oferece uma ampla variedade de cursos em vídeo sob demanda. O site é https://www.udemy.com/ e a funcionalidade escolhida, foi: "***selecionar*** ***o*** ***curso*** ***e*** ***adicionar*** ***ao*** ***carrinho*** ***de*** ***compras***"
 
 ## 🔎Funcionalidade: pesquisar o curso🔎 ## 
 
@@ -17,7 +17,7 @@
 | [RN-02] |  Se não houver resultados para a pesquisa, a página deverá exibir uma mensagem informativa: "Infelizmente, não encotramos resultados para tal palavra" |
 | [RN-03] | A pesquisa deve ser sensível a maiúsculas e minúsculas, garantindo que se possa encontrar cursos independentemente da capitalização das palavras-chave. |
 
-### 🎯User Story🎯 ###
+### 🎯User Story (US)🎯 ###
 
 <p> <b>Como</b> um usuário da plataforma Udemy </p> 
 <p> <b>Gostaria</b> de realizar uma pesquisa por nome do curso ou autor, na página de cursos da Udemy </p>
@@ -33,6 +33,11 @@
 ### ☑️Definição de Pronto☑️ ###
 
 A funcionalidade de pesquisa de curso na Udemy estará pronta para uso quando todos os critérios de aceitação forem atendidos e a equipe de desenvolvimento e QA estiverem concluído os testes de validação.
+
+### 📝Cenários de testes (CTs)📝 ###
+
++ **Funcionalidade:** **Pesquisa de curso na Udemy**
+
 
 | ID | Regras |
 | ------------- | ------------- |
