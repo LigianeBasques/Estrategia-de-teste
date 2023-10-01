@@ -1,6 +1,6 @@
  ## Estratégia de teste de software
 
- Esse desafio foi proposto em uma live com o seguinte tema : **Pirâmide,** **sorvete** **e** **diamante**: **Como** **e** **onde** **usar?** Do esquenta TDC com cantinho das Qas, ministrado pela mentora **Priscila** **Caime**. O objetivo é escolher uma funcionaliodade de um site, que utilizamos e aplicar as melhores estratégias de testes no contexto de **Pirâmide** **de** **testes.** 
+ Esse desafio foi proposto em uma live com o seguinte tema : **Pirâmide,** **sorvete** **e** **diamante**: **Como** **e** **onde** **usar?** Do esquenta TDC com cantinho das Qas, ministrado pela mentora **Priscila** **Caimi**. O objetivo é escolher uma funcionaliodade de um site, que utilizamos e aplicar as melhores estratégias de testes no contexto de **Pirâmide** **de** **testes.** 
 
 
  ## 🔨Começando o desafio🔨 ##
@@ -25,14 +25,14 @@
 
 ### ✅Critérios de aceite✅ ####
 
-- [ ] 1- Na página de cursos da Udemy, deve haver uma barra de pesquisa visível na parte superior da página;
-- [ ] 2- O campo de pesquisa deve ser de fácil acesso e claramente identificável para os usuários;
-- [ ] 3- Quando eu digitar o nome ou parte do nome de um curso no campo de pesquisa e pressionar "Enter" ou clicar no botão da "lupa", a página deverá mostrar resultados correspondentes à minha pesquisa;
-- [ ] 4- Cada resultado da pesquisa deve ser clicável, direcionando-me para a página detalhada do curso correspondente;
+- [x] 1- Na página de cursos da Udemy, deve haver uma barra de pesquisa visível na parte superior da página;
+- [x] 2- O campo de pesquisa deve ser de fácil acesso e claramente identificável para os usuários;
+- [x] 3- Quando eu digitar o nome ou parte do nome de um curso no campo de pesquisa e pressionar "Enter" ou clicar no botão da "lupa", a página deverá mostrar resultados correspondentes à minha pesquisa;
+- [x] 4- Cada resultado da pesquisa deve ser clicável, direcionando-me para a página detalhada do curso correspondente.
 
 ### ☑️Definição de Pronto☑️ ###
 
-- Funcionalidade: adicionar curso ao carinho de compras
+A funcionalidade de pesquisa de curso na Udemy estará pronta para uso quando todos os critérios de aceitação forem atendidos e a equipe de desenvolvimento e QA estiverem concluído os testes de validação.
 
 | ID | Regras |
 | ------------- | ------------- |
