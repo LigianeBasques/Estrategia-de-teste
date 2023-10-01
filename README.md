@@ -7,7 +7,7 @@
 
  O site escolhido para realizar o desafio foi a Udemy que é uma plataforma de aprendizado online que oferece uma ampla variedade de cursos em vídeo sob demanda. O site : https://www.udemy.com/ e a funcionalidade escolhida, foi: "***selecionar*** ***o*** ***curso*** ***e*** ***adicionar*** ***ao*** ***carrinho*** ***de*** ***compras***"
 
-## 📌Funcionalidade: selecionar o curso📌 ## 
+## 🔎Funcionalidade: pesquisar o curso🔎 ## 
 
 ### 📋Regras de Negócios (RN)📋 ### 
 
@@ -18,11 +18,11 @@
 
 ### 🎯User Story🎯 ###
 
-**User** **Story**
+<p> <b>Como</b> um usuário da plataforma Udemy </p> 
+<p> <b>Gostaria</b> de realizar uma pesquisa por nome do curso ou autor, na página de cursos da Udemy </p>
+<p> <b>Para</b> encontrar rapidamente o curso específico que estou procurando</p>
 
-**Como** um usuário da plataforma Udemy 
-**Gostaria** de realizar uma pesquisa por nome do curso ou autor, na página de cursos da Udemy
-**Para** encontrar rapidamente o curso que estou procurando
+### ✅Critérios de aceite✅ ####
 
 - Funcionalidade: adicionar curso ao carinho de compras
 
