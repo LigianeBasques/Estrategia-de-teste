@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://logowik.com/content/uploads/images/udemy-new-20212512.jpg">
   <source media="(prefers-color-scheme: light)" srcset="https://logowik.com/content/uploads/images/udemy-new-20212512.jpg">
-  <img alt="#DescriçãodaImagem:arte gráfica no formato jpg, da logotipo da plataforma de curso Udemy, a cor da letra e preta com acento circunflexo de cor rosa na letra U  ." src="https://logowik.com/content/uploads/images/udemy-new-20212512.jpg">
+  <img alt="#DescriçãodaImagem:arte gráfica no formato jpg, da logotipo da plataforma de curso Udemy, a cor da letra e preta com acento circunflexo de cor rosa na letra U." src="https://logowik.com/content/uploads/images/udemy-new-20212512.jpg">
 </picture>
  
  # 💡Estratégia de teste de software💡 #
@@ -45,7 +45,14 @@ A funcionalidade de pesquisa de curso na Udemy estará pronta para uso quando to
 **Funcionalidade:** **Pesquisa de curso na Udemy**
 <p><b>CT 0001:</b> Pesquisar por um curso existente</p>
 <p><b>Dado</b> que estou na página de cursos da Udemy</p>
+<p><b>Quando</b> eu digito "Acessibilidade digital" na barra de pesquisa</p>
+<p><b>E</b> pressiono "Enter/Lupa"</p>
+<p><b>Então</b> devo ver uma lista de resultados de cursos que contenham "Acessibilidade digital"</p>
+<p><b>E</b> cada resultado deve incluir o nome do curso, nome do autor, duração e valor do curso</p>
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
+<p><b>CT 0002:</b> Pesquisar por um curso inexistente</p>
+<p><b>Dado</b> que estou na página de cursos da Udemy<p>
 
 | ID | Regras |
 | ------------- | ------------- |
