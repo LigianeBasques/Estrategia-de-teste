@@ -12,7 +12,7 @@
 - Funcionalidade: selecionar o curso 
 
 | ID | Regras |
-| :-------------: | :-------------: |
+| ------------- | ------------- |
 | [RN-01] |  Deverá conter a barra de pesquisa para: pesquisar o nome do curso ou autor, com até 255 caracteres do tipo string|
 | [RN-02] |  Deverá ter filtros para cada categoria de curso |
 
@@ -23,7 +23,7 @@
 - Funcionalidade: adicionar curso ao carinho de compras
 
 | ID | Regras |
-| :-------------: | :-------------: |
+| ------------- | ------------- |
 | [RN-03] |  Deverá conter um botão para adicionar curso no carrinho de compras |
 | [RN-04] |  Deverá conter um botão para ir para o carrinho de compras |
 | [RN-05] |  Deverá conter um botão para favoritar o curso|
