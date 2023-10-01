@@ -5,7 +5,7 @@
 
  ## 🔨Começando o desafio🔨 ##
 
- O site escolhido para realizar o desafio foi a Udemy que é uma plataforma de aprendizado online que oferece uma ampla variedade de cursos em vídeo sob demanda. O site : https://www.udemy.com/ e a funcionalidade escolhida, foi: "***selecionar*** ***o*** ***curso*** ***e*** ***adicionar*** ***ao** ***carrinho*** ***de*** ***compras***"
+ O site escolhido para realizar o desafio foi a Udemy que é uma plataforma de aprendizado online que oferece uma ampla variedade de cursos em vídeo sob demanda. O site : https://www.udemy.com/ e a funcionalidade escolhida, foi: "***selecionar*** ***o*** ***curso*** ***e*** ***adicionar*** ***ao*** ***carrinho*** ***de*** ***compras***"
 
 ### 📋Regras de Negócios (RN)📋 ### 
 
@@ -13,7 +13,10 @@
 
 | ID | Regras |
 | :-------------: | :-------------: |
-| [RN-01] |  Deverá conter a barra de pesquisa |
-| [RN-02] |   |
+| [RN-01] |  Deverá conter a barra de pesquisa para: pesquisar o nome do curso ou autor, com até 255 caracteres do tipo string|
+| [RN-02] |  Deverá ter filtros para cada categoria de curso |
+| [RN-03] |  Deverá conter um botão para adicionar curso no carrinho de compras |
+| [RN-04] |  Deverá conter um botão para ir para o carrinho de compras |
+| [RN-05] |  Deverá conter um botão para finalizar compras |
  
 
