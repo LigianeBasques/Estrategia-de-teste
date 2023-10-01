@@ -14,7 +14,8 @@
 | ID | Regras |
 | ------------- | ------------- |
 | [RN-01] |  Deverá conter a barra de pesquisa para: pesquisar o nome do curso ou autor, com até 255 caracteres do tipo string|
-| [RN-02] |  Deverá ter filtros para cada categoria de curso |
+| [RN-02] |  Se não houver resultados para a pesquisa, a página deverá exibir uma mensagem informativa: "Infelizmente, não encotramos resultados para tal palavra" |
+| [RN-03] | A pesquisa deve ser sensível a maiúsculas e minúsculas, garantindo que se possa encontrar cursos independentemente da capitalização das palavras-chave. |
 
 ### 🎯User Story🎯 ###
 
@@ -23,6 +24,13 @@
 <p> <b>Para</b> encontrar rapidamente o curso específico que estou procurando</p>
 
 ### ✅Critérios de aceite✅ ####
+
+- [ ] 1- Na página de cursos da Udemy, deve haver uma barra de pesquisa visível na parte superior da página;
+- [ ] 2- O campo de pesquisa deve ser de fácil acesso e claramente identificável para os usuários;
+- [ ] 3- Quando eu digitar o nome ou parte do nome de um curso no campo de pesquisa e pressionar "Enter" ou clicar no botão da "lupa", a página deverá mostrar resultados correspondentes à minha pesquisa;
+- [ ] 4- Cada resultado da pesquisa deve ser clicável, direcionando-me para a página detalhada do curso correspondente;
+
+### ☑️Definição de Pronto☑️ ###
 
 - Funcionalidade: adicionar curso ao carinho de compras
 
