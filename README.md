@@ -20,7 +20,7 @@
 
 **User** **Story**
 
-**Como** um usuário da plataforma Udemy
+**Como** um usuário da plataforma Udemy 
 **Gostaria** de realizar uma pesquisa por nome do curso ou autor, na página de cursos da Udemy
 **Para** encontrar rapidamente o curso que estou procurando
 
