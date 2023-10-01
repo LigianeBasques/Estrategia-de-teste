@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://logowik.com/content/uploads/images/udemy-new-20212512.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://logowik.com/content/uploads/images/udemy-new-20212512.jpg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://logowik.com/content/uploads/images/udemy-new-20212512.jpg">
+</picture>
+ 
  # 💡Estratégia de teste de software💡 #
 
  Esse desafio foi proposto em uma live com o seguinte tema : **Pirâmide,** **sorvete** **e** **diamante**: **Como** **e** **onde** **usar?** Do esquenta TDC com cantinho das Qas, ministrado pela mentora **Priscila** **Caimi**. O objetivo é escolher uma funcionaliodade de um site, que utilizamos e aplicar as melhores estratégias de testes no contexto de **Pirâmide** **de** **testes.** 
@@ -36,7 +42,9 @@ A funcionalidade de pesquisa de curso na Udemy estará pronta para uso quando to
 
 ### 📝Cenários de testes (CTs)📝 ###
 
-+ **Funcionalidade:** **Pesquisa de curso na Udemy**
+**Funcionalidade:** **Pesquisa de curso na Udemy**
+<p><b>CT 0001:</b> Pesquisar por um curso existente</p>
+<p><b>Dado</b> que estou na página de cursos da Udemy</p>
 
 
 | ID | Regras |
