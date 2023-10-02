@@ -2,8 +2,6 @@
 
 Esse desafio foi proposto em uma live com o seguinte tema : **Pirâmide,** **sorvete** **e** **diamante**: **Como** **e** **onde** **usar?** Do esquenta TDC com cantinho das Qas, ministrado pela mentora **Priscila** **Caimi**. O objetivo é escolher uma funcionaliodade de um site, que utilizamos e aplicar as melhores estratégias de testes no contexto de **Pirâmide** **de** **testes.** 
 
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://logowik.com/content/uploads/images/udemy-new-20212512.jpg">
   <source media="(prefers-color-scheme: light)" srcset="https://logowik.com/content/uploads/images/udemy-new-20212512.jpg">
@@ -54,13 +52,17 @@ A funcionalidade de pesquisa de curso na Udemy estará pronta para uso quando to
 
 <p><b>CT 0002:</b> Pesquisar por um curso inexistente</p>
 <p><b>Dado</b> que estou na página de cursos da Udemy<p>
-<p><b>Quando</b> eu insiro "Curso Imaginário" na barra de pesquisa</p>
+<p><b>Quando</b> eu digito "Curso Imaginário" na barra de pesquisa</p>
 <p><b>E</b> pressiono "Enter/Lupa"</p>
 <p><b>Então</b> devo ver uma mensagem informando que nenhum curso foi encontrado</p>
 -----------------------------------------------------------------------------------------------------------------------------
 
 <p><b>CT 0003:</b> Pesquisar por um curso com letras maiúsculas e minúsculas</p>
 <p><b>Dado</b> que estou na página de cursos da Udemy</p>
+<p><b>Quando</b> eu digito "acessibilidade digital/ACESSIBILIDADE DIGITAL" na barra de pesquisa</p>
+<p><b>E</b> pressiono "Enter/Lupa"</p>
+<p><b>Então</b> devo ver uma lista de resultados de cursos que contenham "Acessibilidade digital"</p>
+<p><b>E</b> a pesquisa deve ser sensível a letras maiúsculas e minúsculas</p>
 
 | ID | Regras |
 | ------------- | ------------- |
