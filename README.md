@@ -49,7 +49,7 @@ A funcionalidade de pesquisa de curso na Udemy estará pronta para uso quando to
 <p><b>E</b> pressiono "Enter/Lupa"</p>
 <p><b>Então</b> devo ver uma lista de resultados de cursos que contenham "Acessibilidade digital"</p>
 <p><b>E</b> cada resultado deve incluir o nome do curso, nome do autor, duração e valor do curso</p>
------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
 
 <p><b>CT 0002:</b> Pesquisar por um curso inexistente</p>
 <p><b>Dado</b> que estou na página de cursos da Udemy<p>
