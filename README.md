@@ -1,14 +1,15 @@
+ # 💡Estratégia de teste de software💡 #
+
+Esse desafio foi proposto em uma live com o seguinte tema : **Pirâmide,** **sorvete** **e** **diamante**: **Como** **e** **onde** **usar?** Do esquenta TDC com cantinho das Qas, ministrado pela mentora **Priscila** **Caimi**. O objetivo é escolher uma funcionaliodade de um site, que utilizamos e aplicar as melhores estratégias de testes no contexto de **Pirâmide** **de** **testes.** 
+
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://logowik.com/content/uploads/images/udemy-new-20212512.jpg">
   <source media="(prefers-color-scheme: light)" srcset="https://logowik.com/content/uploads/images/udemy-new-20212512.jpg">
   <img alt="#DescriçãodaImagem:arte gráfica no formato jpg, da logotipo da plataforma de curso Udemy, a cor da letra e preta com acento circunflexo de cor rosa na letra U." src="https://logowik.com/content/uploads/images/udemy-new-20212512.jpg">
 </picture>
  
- # 💡Estratégia de teste de software💡 #
-
- Esse desafio foi proposto em uma live com o seguinte tema : **Pirâmide,** **sorvete** **e** **diamante**: **Como** **e** **onde** **usar?** Do esquenta TDC com cantinho das Qas, ministrado pela mentora **Priscila** **Caimi**. O objetivo é escolher uma funcionaliodade de um site, que utilizamos e aplicar as melhores estratégias de testes no contexto de **Pirâmide** **de** **testes.** 
-
-
  ## 🔨Começando o desafio🔨 ##
 
  O site escolhido para realizar o desafio foi a Udemy que é uma plataforma de aprendizado online que oferece uma ampla variedade de cursos em vídeo sob demanda. O site é https://www.udemy.com/ e a funcionalidade escolhida, foi: "***selecionar*** ***o*** ***curso*** ***e*** ***adicionar*** ***ao*** ***carrinho*** ***de*** ***compras***"
@@ -56,6 +57,10 @@ A funcionalidade de pesquisa de curso na Udemy estará pronta para uso quando to
 <p><b>Quando</b> eu insiro "Curso Imaginário" na barra de pesquisa</p>
 <p><b>E</b> pressiono "Enter/Lupa"</p>
 <p><b>Então</b> devo ver uma mensagem informando que nenhum curso foi encontrado</p>
+-----------------------------------------------------------------------------------------------------------------------------
+
+<p><b>CT 0003:</b> Pesquisar por um curso com letras maiúsculas e minúsculas</p>
+<p><b>Dado</b> que estou na página de cursos da Udemy</p>
 
 | ID | Regras |
 | ------------- | ------------- |
