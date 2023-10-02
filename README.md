@@ -72,12 +72,14 @@ A funcionalidade de pesquisa de curso na Udemy estará pronta para uso quando to
 <p><b>Então</b> devo ser redirecionado para a página detalhada desse curso</p>
 -----------------------------------------------------------------------------------------------------------------------------
 
-## 🔎Funcionalidade: pesquisar o curso por categoria🔎 ## 
+## 🔎Funcionalidade: pesquisar o curso por filtros🔎 ## 
+
+### 📋Regras de Negócios (RN)📋 ### 
 
 | ID | Regras |
 | ------------- | ------------- |
-| [RN-03] |  Deverá conter um botão para adicionar curso no carrinho de compras |
-| [RN-04] |  Deverá conter um botão para ir para o carrinho de compras |
+| [RN-04] |  Deverá conter um botão link âncora: "Desenvolvimento" para direcionar para seções: "Desenvolvimento web", "Linguagens de programação", "Desenvolvimento de games", "Design e desenvolvimento de bancos de dados" e "Teste de software"  |
+| [RN-05] |  Deverá conter um botão link âncora: "Desenvolvimento" para direcionar para seção: "desenvolvimento móvel" |
 | [RN-05] |  Deverá conter um botão para favoritar o curso|
 | [RN-05] |  Deverá conter um botão para finalizar compras |
 | [RN-06] |  Deverá conter um botão seletor de país |
