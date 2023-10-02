@@ -13,7 +13,7 @@ Esse desafio foi proposto em uma live com o seguinte tema : **Pirâmide,** **sor
 
  O site escolhido para realizar o desafio foi a Udemy que é uma plataforma de aprendizado online que oferece uma ampla variedade de cursos em vídeo sob demanda. O site é https://www.udemy.com/ e a funcionalidade escolhida, foi: "***selecionar*** ***o*** ***curso*** ***e*** ***adicionar*** ***ao*** ***carrinho*** ***de*** ***compras***"
 
-## 🔎Funcionalidade: pesquisar o curso🔎 ## 
+## 🔎Funcionalidade: pesquisar o curso pela barra de pesquisa🔎 ## 
 
 ### 📋Regras de Negócios (RN)📋 ### 
 
@@ -70,6 +70,9 @@ A funcionalidade de pesquisa de curso na Udemy estará pronta para uso quando to
 <p><b>Dado</b> que estou na página de resultados de pesquisa da Udemy</p>
 <p><b>Quando</b> eu clico no primeiro resultado da lista</p>
 <p><b>Então</b> devo ser redirecionado para a página detalhada desse curso</p>
+-----------------------------------------------------------------------------------------------------------------------------
+
+## 🔎Funcionalidade: pesquisar o curso por categoria🔎 ## 
 
 | ID | Regras |
 | ------------- | ------------- |
