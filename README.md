@@ -74,6 +74,7 @@ A funcionalidade de pesquisa de curso na Udemy estará pronta para uso quando to
 -----------------------------------------------------------------------------------------------------------------------------
 
 ## 🔎Funcionalidade: pesquisar o curso por filtros🔎 ## 
+![Pesquisa cursos por filtros](https://i.imgur.com/Rq17khJ.png)
 
 ### 📋Regras de Negócios (RN)📋 ### 
 
