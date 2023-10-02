@@ -88,6 +88,9 @@ A funcionalidade de pesquisa de curso na Udemy estará pronta para uso quando to
 
 
 
+![Pirâmide de testes](https://i.imgur.com/8X4M3SL.png) 
+**Fonte: Priscila Caimi**
+
 
 
 
