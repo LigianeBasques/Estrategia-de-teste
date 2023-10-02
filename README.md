@@ -85,5 +85,8 @@ A funcionalidade de pesquisa de curso na Udemy estará pronta para uso quando to
 | [RN-05] |  Deverá conter um botão para favoritar o curso|
 | [RN-05] |  Deverá conter um botão para finalizar compras |
 | [RN-06] |  Deverá conter um botão seletor de país |
+
+
+ 
  
 
