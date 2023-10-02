@@ -85,8 +85,8 @@ A funcionalidade de pesquisa de curso na Udemy estará pronta para uso quando to
 | [RN-06] |  Deverá conter um botão link âncora: "Finanças e contabilidade" para direcionar para seção: "Contabilidade e escrituração contábil", "Criptomoeda e blockchain", "Finanças", "Modelagem e análise financeira" e "Investimentos e trading "|
 | [RN-07] |  Deverá conter um botão link âncora: "TI e software" para direcionar para seção: "Certificações de TI", "Rede e segurança", "Hardware", "Sistema operacionais e servidores" e "Mais opções em Ti e software" |
 | [RN-08] |  Deverá conter um botão link âncora: "Produtividade no escritório" para direcionar para seção: "Microsoft", "Apple","Google", "SAP", "Oracle" e "Mais opções em produtividade no escritório"|
-| [RN-09] |  Deverá conter um botão link âncora: "Desenvolvimento Pessol" para direcionar para seção: "Transformação pessoal,"Produtividade pessoal", Liderança", "Desenvolvimento de carreira" e "Maternidade/paternidade e relacionamentos" |
-
+| [RN-09] |  Deverá conter um botão link âncora: "Desenvolvimento Pessol" para direcionar para seção: "Transformação pessoal","Produtividade pessoal", "Liderança", "Desenvolvimento de carreira" e "Maternidade/paternidade e relacionamentos" |
+| [RN-10] |  Deverá conter um botão link âncora: "Design" para direcionar para seção: "Web design","Designe gráfico e ilustração", "Ferramentas de design", "Design de experi^ncia do usuário","Design de games" e "3D e animação" |
 
 
 ![Pirâmide de testes](https://i.imgur.com/8X4M3SL.png) 
