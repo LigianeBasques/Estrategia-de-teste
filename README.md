@@ -11,7 +11,7 @@ Esse desafio foi proposto em uma live com o seguinte tema : **Pirâmide,** **sor
  
  ## 🔨Começando o desafio🔨 ##
 
- O site escolhido para realizar o desafio foi a Udemy que é uma plataforma de aprendizado online que oferece uma ampla variedade de cursos em vídeo sob demanda. O site é https://www.udemy.com/ e a funcionalidade escolhida, foi: "***selecionar*** ***o*** ***curso*** ***e*** ***adicionar*** ***ao*** ***carrinho*** ***de*** ***compras***"
+ O site escolhido para realizar o desafio foi a Udemy que é uma plataforma de aprendizado online que oferece uma ampla variedade de cursos em vídeo sob demanda. O site é https://www.udemy.com/ e a funcionalidade escolhida, foi: "***Pesquisar cursos***"
 
 ## 🔎Funcionalidade: pesquisar o curso pela barra de pesquisa🔎 ## 
 
