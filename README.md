@@ -81,10 +81,14 @@ A funcionalidade de pesquisa de curso na Udemy estará pronta para uso quando to
 | ID | Regras |
 | ------------- | ------------- |
 | [RN-04] |  Deverá conter um botão link âncora: "Desenvolvimento" para direcionar para seções: "Desenvolvimento web", "Linguagens de programação", "Desenvolvimento de games", "Design e desenvolvimento de bancos de dados" e "Teste de software"  |
-| [RN-05] |  Deverá conter um botão link âncora: "Desenvolvimento" para direcionar para seção: "desenvolvimento móvel" |
-| [RN-05] |  Deverá conter um botão para favoritar o curso|
+| [RN-05] |  Deverá conter um botão link âncora: "Negócios" para direcionar para seção: "Emprededorismo", "Comunicação", "Administração", "Vendas"e  "Estratégias de negócios" |
+| [RN-05] |  Deverá conter um botão link âncora: "Finanças e contabilidade" para direcionar para seção: "Contabilidade e escrituração contábil", "Criptomoeda e blockchain", "Finanças", "Modelagem e análise financeira" e "Investimentos e trading "|
 | [RN-05] |  Deverá conter um botão para finalizar compras |
 | [RN-06] |  Deverá conter um botão seletor de país |
+
+
+
+
 
 
  
