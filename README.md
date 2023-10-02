@@ -53,6 +53,9 @@ A funcionalidade de pesquisa de curso na Udemy estará pronta para uso quando to
 
 <p><b>CT 0002:</b> Pesquisar por um curso inexistente</p>
 <p><b>Dado</b> que estou na página de cursos da Udemy<p>
+<p><b>Quando</b> eu insiro "Curso Imaginário" na barra de pesquisa</p>
+<p><b>E</b> pressiono "Enter/Lupa"</p>
+<p><b>Então</b> devo ver uma mensagem informando que nenhum curso foi encontrado</p>
 
 | ID | Regras |
 | ------------- | ------------- |
