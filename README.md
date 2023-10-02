@@ -1,6 +1,6 @@
  # 💡Estratégia de teste de software💡 #
 
-Esse desafio foi proposto em uma live com o seguinte tema : **Pirâmide,** **sorvete** **e** **diamante**: **Como** **e** **onde** **usar?** Do esquenta TDC com cantinho das Qas, ministrado pela mentora **Priscila** **Caimi**. O objetivo é escolher uma funcionaliodade de um site, que utilizamos e aplicar as melhores estratégias de testes no contexto de **Pirâmide** **de** **testes.** 
+Esse desafio foi proposto em uma live com o seguinte tema : **Pirâmide,** **sorvete** **e** **diamante**: **Como** **e** **onde** **usar?** Do esquenta TDC com cantinho das Qas, ministrado pela mentora **Priscila** **Caimi**. O objetivo é escolher uma funcionaliodade de um site, que utilizamos e aplicar as melhores estratégias de testes no contexto de **Pirâmide** **de** **testes**. 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://logowik.com/content/uploads/images/udemy-new-20212512.jpg">
@@ -63,6 +63,10 @@ A funcionalidade de pesquisa de curso na Udemy estará pronta para uso quando to
 <p><b>E</b> pressiono "Enter/Lupa"</p>
 <p><b>Então</b> devo ver uma lista de resultados de cursos que contenham "Acessibilidade digital"</p>
 <p><b>E</b> a pesquisa deve ser sensível a letras maiúsculas e minúsculas</p>
+-----------------------------------------------------------------------------------------------------------------------------
+
+<p><b>CT 0004: </b>Clicar em um resultado de pesquisa</p>
+<p><b>Dado</b> que estou na página de resultados de pesquisa da Udemy</p>
 
 | ID | Regras |
 | ------------- | ------------- |
