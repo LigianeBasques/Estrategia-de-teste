@@ -89,13 +89,21 @@ A funcionalidade de pesquisa de curso na Udemy estará pronta para uso quando to
 | [RN-07] |  Deverá conter um botão link âncora: "TI e software" para direcionar para seção: "Certificações de TI", "Rede e segurança", "Hardware", "Sistema operacionais e servidores" e "Mais opções em Ti e software" |
 | [RN-08] |  Deverá conter um botão link âncora: "Produtividade no escritório" para direcionar para seção: "Microsoft", "Apple","Google", "SAP", "Oracle" e "Mais opções em produtividade no escritório"|
 | [RN-09] |  Deverá conter um botão link âncora: "Desenvolvimento Pessol" para direcionar para seção: "Transformação pessoal","Produtividade pessoal", "Liderança", "Desenvolvimento de carreira" e "Maternidade/paternidade e relacionamentos" |
-| [RN-10] |  Deverá conter um botão link âncora: "Design" para direcionar para seção: "Web design","Designe gráfico e ilustração", "Ferramentas de design", "Design de experi^ncia do usuário","Design de games" e "3D e animação" |
+| [RN-10] |  Deverá conter um botão link âncora: "Desenvolvimento Pessol" para direcionar para seção: "Web design","Designe gráfico e ilustração", "Ferramentas de design", "Design de experi^ncia do usuário","Design de games" e "3D e animação" |
 
 ### 🎯User Story (US)🎯 ###
 
 <p> <b>Como</b> um usuário da plataforma Udemy </p> 
 <p> <b>Gostaria</b> de realizar uma pesquisa refinada de cursos usando filtros </p>
 <p> <b>Para</b> encontrar cursos que atendam especificamente às minhas necessidades e interesses.</p>
+
+### ✅Critérios de aceite✅ ####
+
+- [x] 1- Como usuário logado na Udemy, desejo acessar a função de pesquisa por filtros no site;
+- [ ] 2- Na página de pesquisa de cursos, quero ver uma variedade de filtros disponíveis,incluindo os filtros: "Desenvolvimento","Negócios", "Finanças e contabilidade","TI e software","Produtividade no escritório", "Desenvolvimento Pessol" e "Design de games";
+- [ ] 3- Ao aplicar filtro por exemplo: "Desenvolvimento", desejo ver a lista de cursos atualizada automaticamente para exibir apenas os cursos que correspondem a esse filtro;
+- [ ] 4- Ao clicar em um curso da lista de resultados, desejo ser direcionado para a página do curso, onde posso ver informações detalhadas sobre o curso, como descrição, grade curricular, valor, nome do autor e análises de outros alunos;
+- [ ] 5- Ao escolher um curso, quero poder adicioná-lo ao meu carrinho de compras,favoritá-lo para uma possivel compra futura ou comprá-lo agora.
 
 
 ![Pirâmide de testes](https://i.imgur.com/8X4M3SL.png) 
