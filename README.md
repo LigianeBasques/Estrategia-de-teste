@@ -91,6 +91,12 @@ A funcionalidade de pesquisa de curso na Udemy estará pronta para uso quando to
 | [RN-09] |  Deverá conter um botão link âncora: "Desenvolvimento Pessol" para direcionar para seção: "Transformação pessoal","Produtividade pessoal", "Liderança", "Desenvolvimento de carreira" e "Maternidade/paternidade e relacionamentos" |
 | [RN-10] |  Deverá conter um botão link âncora: "Design" para direcionar para seção: "Web design","Designe gráfico e ilustração", "Ferramentas de design", "Design de experi^ncia do usuário","Design de games" e "3D e animação" |
 
+### 🎯User Story (US)🎯 ###
+
+<p> <b>Como</b> um usuário da plataforma Udemy </p> 
+<p> <b>Gostaria</b> de realizar uma pesquisa refinada de cursos usando filtros </p>
+<p> <b>Para</b> encontrar cursos que atendam especificamente às minhas necessidades e interesses.</p>
+
 
 ![Pirâmide de testes](https://i.imgur.com/8X4M3SL.png) 
 **Fonte: Priscila Caimi**
