@@ -39,7 +39,7 @@ Esse desafio foi proposto em uma live com o seguinte tema : **Pirâmide,** **sor
 - [x] 2- O campo de pesquisa deve ser de fácil acesso e claramente identificável para os usuários;
 - [x] 3- Quando eu digitar o nome ou parte do nome de um curso no campo de pesquisa e pressionar "Enter" ou clicar no botão da "lupa", a página deverá mostrar resultados correspondentes à minha pesquisa;
 - [x] 4- Cada resultado da pesquisa deve ser clicável, direcionando-me para a página detalhada do curso correspondente;
-- [ ] 5- Ao pesquisar um curso, quero poder adicioná-lo ao meu carrinho de compras,favoritá-lo para uma possivel compra futura ou comprá-lo agora.
+- [ ] 5- Ao pesquisar um curso, quero poder adicioná-lo ao meu carrinho de compras,favoritá-lo para uma possível compra futura ou comprá-lo agora.
 
 ### ☑️Definição de Pronto☑️ ###
 
@@ -104,11 +104,13 @@ A funcionalidade de pesquisa de curso na Udemy estará pronta para uso quando to
 - [ ] 2- Na página de pesquisa de cursos, quero ver uma variedade de filtros disponíveis,incluindo os filtros: "Desenvolvimento","Negócios", "Finanças e contabilidade","TI e software","Produtividade no escritório", "Desenvolvimento Pessol" e "Design de games";
 - [ ] 3- Ao aplicar filtro por exemplo: "Desenvolvimento", desejo ver a lista de cursos atualizada automaticamente para exibir apenas os cursos que correspondem a esse filtro;
 - [ ] 4- Ao clicar em um curso da lista de resultados, desejo ser direcionado para a página do curso, onde posso ver informações detalhadas sobre o curso, como descrição, grade curricular, valor, nome do autor e análises de outros alunos;
-- [ ] 5- Ao escolher um curso, quero poder adicioná-lo ao meu carrinho de compras,favoritá-lo para uma possivel compra futura ou comprá-lo agora.
+- [ ] 5- Ao escolher um curso, quero poder adicioná-lo ao meu carrinho de compras,favoritá-lo para uma possível compra futura ou comprá-lo agora.
 
 ### ☑️Definição de Pronto☑️ ###
 
 A funcionalidade de pesquisar curso por filtro na Udemy estará pronta para uso quando todos os critérios de aceitação forem atendidos e a equipe de desenvolvimento e QA estiverem concluído os testes de validação.
+
+### 📝Cenários de testes (CTs)📝 ###
 
 ![Pirâmide de testes](https://i.imgur.com/8X4M3SL.png) 
 **Fonte: Priscila Caimi**
