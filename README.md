@@ -100,15 +100,15 @@ A funcionalidade de pesquisa de curso na Udemy estará pronta para uso quando to
 
 ### ✅Critérios de aceite✅ ####
 
-- [x] 1- Como usuário logado na Udemy, desejo acessar a função de pesquisa por filtros no site;
-- [ ] 2- Na página de pesquisa de cursos, quero ver uma variedade de filtros disponíveis,incluindo os filtros: "Desenvolvimento","Negócios", "Finanças e contabilidade","TI e software","Produtividade no escritório", "Desenvolvimento Pessol" e "Design de games";
-- [ ] 3- Ao aplicar filtro por exemplo: "Desenvolvimento", desejo ver a lista de cursos atualizada automaticamente para exibir apenas os cursos que correspondem a esse filtro;
+- [x] 1- Como usuário logado na Udemy, desejo acessar a função de pesquisa por categoria no site;
+- [ ] 2- Na página de pesquisa de cursos, quero ver uma variedade de categorias disponíveis,incluindo as categorias: "Desenvolvimento","Negócios", "Finanças e contabilidade","TI e software","Produtividade no escritório", "Desenvolvimento Pessol" e "Design de games";
+- [ ] 3- Ao aplicar categoria por exemplo: "Desenvolvimento", desejo ver a lista de cursos atualizada automaticamente para exibir apenas os cursos que correspondem a essa categoria;
 - [ ] 4- Ao clicar em um curso da lista de resultados, desejo ser direcionado para a página do curso, onde posso ver informações detalhadas sobre o curso, como descrição, grade curricular, valor, nome do autor e análises de outros alunos;
 - [ ] 5- Ao escolher um curso, quero poder adicioná-lo ao meu carrinho de compras,favoritá-lo para uma possível compra futura ou comprá-lo agora.
 
 ### ☑️Definição de Pronto☑️ ###
 
-A funcionalidade de pesquisar curso por filtro na Udemy estará pronta para uso quando todos os critérios de aceitação forem atendidos e a equipe de desenvolvimento e QA estiverem concluído os testes de validação.
+A funcionalidade de pesquisar curso por categoria na Udemy estará pronta para uso quando todos os critérios de aceitação forem atendidos e a equipe de desenvolvimento e QA estiverem concluído os testes de validação.
 
 ### 📝Cenários de testes (CTs)📝 ###
 
@@ -117,6 +117,7 @@ A funcionalidade de pesquisar curso por filtro na Udemy estará pronta para uso 
 <p><b>Dado</b> que o usuário está na página principal de cursos da Udemy"</p>
 <p><b>Quando</b> o usuário clica no link âncora "Desenvolvimento"</p>
 <p><b>Então</b> o usuário deve ser redirecionado para a seção "Desenvolvimento web"</p>
+-----------------------------------------------------------------------------------------------------------------------------
 
 
 ![Pirâmide de testes](https://i.imgur.com/8X4M3SL.png) 
