@@ -47,7 +47,7 @@ A funcionalidade de pesquisa de curso na Udemy estará pronta para uso quando to
 
 ### 📝Cenários de testes (CTs)📝 ###
 
-**Funcionalidade:** **Pesquisa de curso na Udemy**
+**Funcionalidade:** **Pesquisar curso na Udemy na barra de pesquisa**
 <p><b>CT 0001:</b> Pesquisar por um curso existente</p>
 <p><b>Dado</b> que estou na página de cursos da Udemy</p>
 <p><b>Quando</b> eu digito "Acessibilidade digital" na barra de pesquisa</p>
@@ -111,6 +111,13 @@ A funcionalidade de pesquisa de curso na Udemy estará pronta para uso quando to
 A funcionalidade de pesquisar curso por filtro na Udemy estará pronta para uso quando todos os critérios de aceitação forem atendidos e a equipe de desenvolvimento e QA estiverem concluído os testes de validação.
 
 ### 📝Cenários de testes (CTs)📝 ###
+
+**Funcionalidade:** **Verificação do botão link âncora "Desenvolvimento" e suas seções**
+<p><b>CT 0005:</b> Clicar no link âncora "Desenvolvimento" e direcionar para a seção "Desenvolvimento web"</p>
+<p><b>Dado</b> que o usuário está na página principal de cursos da Udemy"</p>
+<p><b>Quando</b> o usuário clica no link âncora "Desenvolvimento"</p>
+<p><b>Então</b> o usuário deve ser redirecionado para a seção "Desenvolvimento web"</p>
+
 
 ![Pirâmide de testes](https://i.imgur.com/8X4M3SL.png) 
 **Fonte: Priscila Caimi**
