@@ -77,7 +77,7 @@ A funcionalidade de pesquisa de curso na Udemy estará pronta para uso quando to
 <p><b>Então</b> devo ser redirecionado para a página detalhada desse curso</p>
 -----------------------------------------------------------------------------------------------------------------------------
 
-## 🔎Funcionalidade: pesquisar o curso por filtros🔎 ## 
+## 🔎Funcionalidade: pesquisar o curso por categoria🔎 ## 
 ![Pesquisa cursos por filtros](https://i.imgur.com/Rq17khJ.png)
 
 ### 📋Regras de Negócios (RN)📋 ### 
@@ -113,17 +113,24 @@ A funcionalidade de pesquisar curso por categoria na Udemy estará pronta para u
 ### 📝Cenários de testes (CTs)📝 ###
 
 **Funcionalidade:** **Verificação do botão link âncora "Desenvolvimento" e suas seções**
-<p><b>CT 0005:</b> Clicar no link âncora "Desenvolvimento" e direcionar para a seção por exemplo "Desenvolvimento web"</p>
+<p><b>CT 0005:</b> Clicar no link âncora "Desenvolvimento" e direcionar para as seções</p>
 <p><b>Dado</b> que o usuário está na página principal de cursos da Udemy"</p>
 <p><b>Quando</b> o usuário clica no link âncora "Desenvolvimento"</p>
-<p><b>Então</b> o usuário deve ser redirecionado para a seção "Desenvolvimento web"</p>
+<p><b>Então</b> o usuário deve ser redirecionado para a seção "Desenvolvimento web" por exemplo</p>
 -----------------------------------------------------------------------------------------------------------------------------
 
 **Funcionalidade:** **Verificação do botão link âncora "Negócios" e suas seções**
-<p><b>CT 0006:</b> Clicar no link âncora "Negócios" e direcionar para a seção por exemplo "Emprededorismo"</p>
+<p><b>CT 0006:</b> Clicar no link âncora "Negócios" e direcionar para as seções</p>
 <p><b>Dado</b> que o usuário está na página principal de cursos da Udemy"</p>
 <p><b>Quando</b> o usuário clica no link âncora "Negócios"</p>
-<p><b>Então</b> o usuário deve ser redirecionado para a seção "Emprededorismo"</p>
+<p><b>Então</b> o usuário deve ser redirecionado para a seção "Emprededorismo" por exemplo</p>
+-----------------------------------------------------------------------------------------------------------------------------
+
+**Funcionalidade:** **Verificação do botão link âncora "Finanças e contabilidade" e suas seções**
+<p><b>CT 0007:</b> Clicar no link âncora "Finanças e contabilidade" e direcionar para as seções</p>
+<p><b>Dado</b> que o usuário está na página principal de cursos da Udemy"</p>
+<p><b>Quando</b> o usuário clica no link âncora "Finanças e contabilidade"</p>
+<p><b>Então</b> o usuário deve ser redirecionado para a seção "Contabilidade e escrituração contábel" por exemplo</p>
 
 ![Pirâmide de testes](https://i.imgur.com/8X4M3SL.png) 
 **Fonte: Priscila Caimi**
