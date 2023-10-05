@@ -117,6 +117,7 @@ A funcionalidade de pesquisar curso por categoria na Udemy estará pronta para u
 <p><b>Dado</b> que o usuário está na página principal de cursos da Udemy"</p>
 <p><b>Quando</b> o usuário clica no link âncora "Desenvolvimento"</p>
 <p><b>Então</b> o usuário deve ser redirecionado para a seção "Desenvolvimento web" por exemplo</p>
+<p><b>E</b> o usuário ao clicar em "Desenvolvimento web" deverá ser redirecionado para a página detalhada desse curso</p>
 -----------------------------------------------------------------------------------------------------------------------------
 
 **Funcionalidade:** **Verificação do botão link âncora "Negócios" e suas seções**
@@ -124,6 +125,7 @@ A funcionalidade de pesquisar curso por categoria na Udemy estará pronta para u
 <p><b>Dado</b> que o usuário está na página principal de cursos da Udemy"</p>
 <p><b>Quando</b> o usuário clica no link âncora "Negócios"</p>
 <p><b>Então</b> o usuário deve ser redirecionado para a seção "Emprededorismo" por exemplo</p>
+<p><b>E</b> o usuário ao clicar em "Emprededorismo" deverá ser redirecionado para a página detalhada desse curso</p>
 -----------------------------------------------------------------------------------------------------------------------------
 
 **Funcionalidade:** **Verificação do botão link âncora "Finanças e contabilidade" e suas seções**
@@ -131,6 +133,7 @@ A funcionalidade de pesquisar curso por categoria na Udemy estará pronta para u
 <p><b>Dado</b> que o usuário está na página principal de cursos da Udemy"</p>
 <p><b>Quando</b> o usuário clica no link âncora "Finanças e contabilidade"</p>
 <p><b>Então</b> o usuário deve ser redirecionado para a seção "Contabilidade e escrituração contábel" por exemplo</p>
+<p><b>E</b> o usuário ao clicar em "Contabilidade e escrituração contábel" deverá ser redirecionado para a página detalhada desse curso</p>
 
 ![Pirâmide de testes](https://i.imgur.com/8X4M3SL.png) 
 **Fonte: Priscila Caimi**
