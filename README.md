@@ -95,7 +95,7 @@ A funcionalidade de pesquisa de curso na Udemy estará pronta para uso quando to
 ### 🎯User Story (US)🎯 ###
 
 <p> <b>Como</b> um usuário da plataforma Udemy </p> 
-<p> <b>Gostaria</b> de realizar uma pesquisa refinada de cursos usando filtros </p>
+<p> <b>Gostaria</b> de realizar uma pesquisa refinada de cursos usando categorias </p>
 <p> <b>Para</b> encontrar cursos que atendam especificamente às minhas necessidades e interesses.</p>
 
 ### ✅Critérios de aceite✅ ####
@@ -113,12 +113,17 @@ A funcionalidade de pesquisar curso por categoria na Udemy estará pronta para u
 ### 📝Cenários de testes (CTs)📝 ###
 
 **Funcionalidade:** **Verificação do botão link âncora "Desenvolvimento" e suas seções**
-<p><b>CT 0005:</b> Clicar no link âncora "Desenvolvimento" e direcionar para a seção "Desenvolvimento web"</p>
+<p><b>CT 0005:</b> Clicar no link âncora "Desenvolvimento" e direcionar para a seção por exemplo "Desenvolvimento web"</p>
 <p><b>Dado</b> que o usuário está na página principal de cursos da Udemy"</p>
 <p><b>Quando</b> o usuário clica no link âncora "Desenvolvimento"</p>
 <p><b>Então</b> o usuário deve ser redirecionado para a seção "Desenvolvimento web"</p>
 -----------------------------------------------------------------------------------------------------------------------------
 
+**Funcionalidade:** **Verificação do botão link âncora "Negócios" e suas seções**
+<p><b>CT 0006:</b> Clicar no link âncora "Negócios" e direcionar para a seção por exemplo "Emprededorismo"</p>
+<p><b>Dado</b> que o usuário está na página principal de cursos da Udemy"</p>
+<p><b>Quando</b> o usuário clica no link âncora "Negócios"</p>
+<p><b>Então</b> o usuário deve ser redirecionado para a seção "Emprededorismo"</p>
 
 ![Pirâmide de testes](https://i.imgur.com/8X4M3SL.png) 
 **Fonte: Priscila Caimi**
