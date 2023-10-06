@@ -135,6 +135,22 @@ A funcionalidade de pesquisar curso por categoria na Udemy estará pronta para u
 <p><b>Quando</b> o usuário clica no link âncora "Finanças e contabilidade"</p>
 <p><b>Então</b> o usuário deve ser redirecionado para a seção "Contabilidade e escrituração contábel" por exemplo</p>
 <p><b>E</b> o usuário ao clicar em "Contabilidade e escrituração contábel" deverá ser redirecionado para a página detalhada desse curso</p>
+-----------------------------------------------------------------------------------------------------------------------------
+
+**Funcionalidade:** **Verificação do botão link âncora "TI e software" e suas seções**
+<p><b>CT 0008:</b> Clicar no link âncora "TI e software" e direcionar para as seções</p>
+<p><b>Dado</b> que o usuário está na página principal de cursos da Udemy"</p>
+<p><b>Quando</b> o usuário clica no link âncora "TI e software"</p>
+<p><b>Então</b> o usuário deve ser redirecionado para a seção "Certificações de TI" por exemplo</p>
+<p><b>E</b> o usuário ao clicar em "Certificações de TI" deverá ser redirecionado para a página detalhada desse curso</p>
+-----------------------------------------------------------------------------------------------------------------------------
+
+**Funcionalidade:** **Verificação do botão link âncora "Produtividade no escritório" e suas seções**
+<p><b>CT 0009:</b> Clicar no link âncora "Produtividade no escritório" e direcionar para as seções</p>
+<p><b>Dado</b> que o usuário está na página principal de cursos da Udemy"</p>
+<p><b>Quando</b> o usuário clica no link âncora "Produtividade no escritório"</p>
+<p><b>Então</b> o usuário deve ser redirecionado para a seção "Microsoft" por exemplo</p>
+<p><b>E</b> o usuário ao clicar em "Microsoft" deverá ser redirecionado para a página detalhada desse curso</p>
 
 ![Pirâmide de testes](https://i.imgur.com/8X4M3SL.png) 
 **Fonte: Priscila Caimi**
