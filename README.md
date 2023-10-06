@@ -1,5 +1,6 @@
  # 💡Estratégia de teste de software💡 #
 
+## 👀Visão Geral👀 ##
 Esse desafio foi proposto em uma live com o seguinte tema : **Pirâmide,** **sorvete** **e** **diamante**: **Como** **e** **onde** **usar?** Do esquenta TDC com cantinho das Qas, ministrado pela mentora **Priscila** **Caimi**. O objetivo é escolher uma funcionaliodade de um site, que utilizamos e aplicar as melhores estratégias de testes no contexto de **Pirâmide** **de** **testes**. 
 
 ![Ligiabe Basques](https://img.shields.io/badge/Respons%C3%A1vel%3ALigiane%20Basques%20-%20%09%2332CD32)
