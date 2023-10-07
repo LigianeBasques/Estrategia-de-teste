@@ -151,6 +151,49 @@ A funcionalidade de pesquisar curso por categoria na Udemy estará pronta para u
 <p><b>Quando</b> o usuário clica no link âncora "Produtividade no escritório"</p>
 <p><b>Então</b> o usuário deve ser redirecionado para a seção "Microsoft" por exemplo</p>
 <p><b>E</b> o usuário ao clicar em "Microsoft" deverá ser redirecionado para a página detalhada desse curso</p>
+-----------------------------------------------------------------------------------------------------------------------------
+
+**Funcionalidade:** **Verificação do botão link âncora "Desenvolvimento Pessoal" e suas seções**
+<p><b>CT 0010:</b> Clicar no link âncora "Desenvolvimento Pessoal" e direcionar para as seções</p>
+<p><b>Dado</b> que o usuário está na página principal de cursos da Udemy"</p>
+<p><b>Quando</b> o usuário clica no link âncora "Desenvolvimento Pessoal"</p>
+<p><b>Então</b> o usuário deve ser redirecionado para a seção "Transformação pessoal" por exemplo</p>
+<p><b>E</b> o usuário ao clicar em "Transformação pessoal" deverá ser redirecionado para a página detalhada desse curso</p>
+-----------------------------------------------------------------------------------------------------------------------------
+
+**Funcionalidade:** **Verificação do botão link âncora "Design" e suas seções**
+<p><b>CT 0011:</b> Clicar no link âncora "Design" e direcionar para as seções</p>
+<p><b>Dado</b> que o usuário está na página principal de cursos da Udemy"</p>
+<p><b>Quando</b> o usuário clica no link âncora "Designl"</p>
+<p><b>Então</b> o usuário deve ser redirecionado para a seção "Web design" por exemplo</p>
+<p><b>E</b> o usuário ao clicar em "Web design" deverá ser redirecionado para a página detalhada desse curso</p>
+-----------------------------------------------------------------------------------------------------------------------------
+
+**Funcionalidade:** **Verificação do botão link âncora "Marketing" e suas seções**
+<p><b>CT 0012:</b> Clicar no link âncora "Marketing" e direcionar para as seções</p>
+<p><b>Dado</b> que o usuário está na página principal de cursos da Udemy"</p>
+<p><b>Quando</b> o usuário clica no link âncora "Marketing"</p>
+<p><b>Então</b> o usuário deve ser redirecionado para a seção "Marketing digital" por exemplo</p>
+<p><b>E</b> o usuário ao clicar em "Marketing digital" deverá ser redirecionado para a página detalhada desse curso</p>
+-----------------------------------------------------------------------------------------------------------------------------
+
+**Funcionalidade:** **Verificação do botão link âncora "Saúde e fitness" e suas seções**
+<p><b>CT 0013:</b> Clicar no link âncora "Saúde e fitness" e direcionar para as seções</p>
+<p><b>Dado</b> que o usuário está na página principal de cursos da Udemy"</p>
+<p><b>Quando</b> o usuário clica no link âncora "Saúde e fitness"</p>
+<p><b>Então</b> o usuário deve ser redirecionado para a seção "Fitness" por exemplo</p>
+<p><b>E</b> o usuário ao clicar em "Fitness" deverá ser redirecionado para a página detalhada desse curso</p>
+-----------------------------------------------------------------------------------------------------------------------------
+
+**Funcionalidade:** **Verificação do botão link âncora "Música" e suas seções**
+<p><b>CT 0014:</b> Clicar no link âncora "Música" e direcionar para as seções</p>
+<p><b>Dado</b> que o usuário está na página principal de cursos da Udemy"</p>
+<p><b>Quando</b> o usuário clica no link âncora "Música"</p>
+<p><b>Então</b> o usuário deve ser redirecionado para a seção "Instrumentos" por exemplo</p>
+<p><b>E</b> o usuário ao clicar em "Instrumentos" deverá ser redirecionado para a página detalhada desse curso</p>
+-----------------------------------------------------------------------------------------------------------------------------
+
+
 
 ![Pirâmide de testes](https://i.imgur.com/8X4M3SL.png) 
 **Fonte: Priscila Caimi**
