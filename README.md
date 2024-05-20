@@ -218,6 +218,23 @@ A funcionalidade de pesquisar curso por categoria na Udemy estará pronta para u
 **Resultado da pesquisa**
 <p>Garantir que os resultados da pesquisa são renderizados corretamente após a busca</p>
 
+![Static Badge](https://img.shields.io/badge/INTEGRADO%2FSERVI%C3%87O-2E8B57?style=flat)
+
+**Teste de sucesso na pesquisa de cursos**
+<p>Valida se uma pesquisa retorna os resultados esperados</p>
+
+**Teste de sucesso na pesquisa por categoria**
+<p>Valida se uma pesquisa por categoria retorna os resultados esperados</p>
+
+**Teste de falha na pesquisa (erro do servidor)**
+<p>Valida se aplicação lida corretamente com uma resposta de erro do servidor</p>
+
+**Teste de falha na pesquisa (sem resultado)**
+<p>Valida se aplicação lida corretamente quando a pesquisa não retorna resultados</p>
+
+
+
+
 
 
 
