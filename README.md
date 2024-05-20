@@ -197,6 +197,17 @@ A funcionalidade de pesquisar curso por categoria na Udemy estará pronta para u
 
 ![Pirâmide de testes](https://i.imgur.com/8X4M3SL.png) 
 **Fonte: Priscila Caimi**
+<p>A pirâmide de testes ajuda as equipes de desenvolvimento a priorizarem onde colocar esforços de testes e a construir um conjunto de testes robusto que ajude a garantir a qualidade do software ao longo de todo o ciclo de desenvolvimento: a seguir, será demostrado onde cada teste deverá se aplicado em se tratando desse modelo.  </p>
+
+![Static Badge](https://img.shields.io/badge/Unit%C3%A1rio-FF0000?style=flat)
+
+ **Regras de Negócios (RN)**
+<p>Será validado no teste unitário as regras de negócios, que no exemplo acima se trata da: funcionalidade de pesquisar os cursos na barra de pesquisa e através de categórias </p>
+
+
+
+
+
 
 
 
