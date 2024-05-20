@@ -220,17 +220,31 @@ A funcionalidade de pesquisar curso por categoria na Udemy estará pronta para u
 
 ![Static Badge](https://img.shields.io/badge/INTEGRADO%2FSERVI%C3%87O-2E8B57?style=flat)
 
-**Teste de sucesso na pesquisa de cursos**
-<p>Valida se uma pesquisa retorna os resultados esperados</p>
-
-**Teste de sucesso na pesquisa por categoria**
-<p>Valida se uma pesquisa por categoria retorna os resultados esperados</p>
 
 **Teste de falha na pesquisa (erro do servidor)**
 <p>Valida se aplicação lida corretamente com uma resposta de erro do servidor</p>
 
 **Teste de falha na pesquisa (sem resultado)**
 <p>Valida se aplicação lida corretamente quando a pesquisa não retorna resultados</p>
+
+![Static Badge](https://img.shields.io/badge/AUTO%20UI-00BFFF?style=flat)
+
+**Teste de sucesso na pesquisa de cursos**
+<p>Valida se uma pesquisa retorna os resultados esperados</p>
+
+**Teste de sucesso na pesquisa por categoria**
+<p>Valida se uma pesquisa por categoria retorna os resultados esperados</p>
+
+![Static Badge](https://img.shields.io/badge/MANUAL-1E90FF?style=flat)
+
+**Teste na pesquisa de cursos com letras tudo em minuscula ou maiúscula**
+<p>Valida se ao digitar na barra de pesquisa com letras todo em maiúscula ou minuscula se retornao resultado esperado</p>
+
+**Teste na pesquisa de cursos por categoria**
+<p>Valida se é possivel selecionar mais de uma categoria ao mesmo tempo</p>
+
+
+
 
 
 
