@@ -202,7 +202,7 @@ A funcionalidade de pesquisar curso por categoria na Udemy estará pronta para u
 ![Static Badge](https://img.shields.io/badge/Unit%C3%A1rio-FF0000?style=flat)
 
  **Regras de Negócios (RN)**
-<p>Será validado no teste unitário as regras de negócios, que no exemplo acima se trata da: funcionalidade de pesquisar os cursos na barra de pesquisa e através de categórias </p>
+<p>Será validado no teste unitário as regras de negócios, que no exemplo acima se trata da: funcionalidade de pesquisar os cursos na barra de pesquisa e através de categórias. </p>
 
 
 
