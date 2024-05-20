@@ -243,7 +243,7 @@ A funcionalidade de pesquisar curso por categoria na Udemy estará pronta para u
 **Teste na pesquisa de cursos por categoria**
 <p>Valida se é possivel selecionar mais de uma categoria ao mesmo tempo</p>
 
-![Static Badge](https://img.shields.io/badge/Para%20cada%20tipo%20de%20teste%20teremos%20as%20seguintes%20porcentagens(%25)-FA8072?style=flat)
+![Static Badge](https://img.shields.io/badge/PARA%20CADA%20TIPO%20DE%20TESTE%20TEREMOS%20AS%20SEGUINTES%20PORCENTAGENS(%25)%3A-FA8072?style=flat)
 
 ![Static Badge](https://img.shields.io/badge/UNIT%C3%81RIO-FF0000?style=flat) ![Static Badge](https://img.shields.io/badge/COMPONENTE-FFD700?style=flat)![Static Badge](https://img.shields.io/badge/%3D60%25-EEE8AA?style=flat)
 
