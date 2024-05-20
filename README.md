@@ -193,7 +193,7 @@ A funcionalidade de pesquisar curso por categoria na Udemy estará pronta para u
 <p><b>E</b> o usuário ao clicar em "Instrumentos" deverá ser redirecionado para a página detalhada desse curso</p>
 -----------------------------------------------------------------------------------------------------------------------------
 
-
+### ✅Aplicando a estratégia da pirâmide de testes✅ ###
 
 ![Pirâmide de testes](https://i.imgur.com/8X4M3SL.png) 
 **Fonte: Priscila Caimi**
